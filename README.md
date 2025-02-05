@@ -1,1 +1,1 @@
-# Food spoilage detection using robot
+# Food rancidity detection using robot
