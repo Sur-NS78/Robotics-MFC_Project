@@ -1,1 +1,1 @@
-# Food rancidity detection using robot
+# Pest detection using robot
